@@ -1,0 +1,31 @@
+{
+  "name": "neo-common",
+  "version": "1.0.0",
+  "description": "chat with sum peeps :D.",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production",
+    "test": "jest"
+  },
+  "keywords": [
+    "community",
+    "chat",
+    "neo",
+    "website"
+  ],
+  "author": "Daniel Ferraz Siqueira",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.4.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^10.0.0",
+    "jest": "^29.7.0",
+    "webpack": "^5.24.4",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  }
+}
