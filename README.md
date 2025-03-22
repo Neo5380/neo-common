@@ -38,7 +38,7 @@ neo-common-website
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Neo5380/neo-common
    ```
 
 2. Navigate to the project directory:
